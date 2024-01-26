@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Rewst App",
+    "url": "$REWST_APP",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "rewst-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Rewst API",
+    "url": "$REWST_API",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "rewst-api",
+    "status": "up",
+    "uptime": "58.98%",
+    "uptimeDay": "58.98%",
+    "uptimeWeek": "58.98%",
+    "uptimeMonth": "58.98%",
+    "uptimeYear": "58.98%",
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {
+      "2024-01-26": 7
+    }
+  },
+  {
+    "name": "Rewst Engine",
+    "url": "$REWST_ENGINE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "rewst-engine",
+    "status": "up",
+    "uptime": "58.86%",
+    "uptimeDay": "58.86%",
+    "uptimeWeek": "58.86%",
+    "uptimeMonth": "58.86%",
+    "uptimeYear": "58.86%",
+    "time": 170,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
+    "dailyMinutesDown": {
+      "2024-01-26": 7
+    }
+  },
+  {
+    "name": "Rewst CDN",
+    "url": "$REWST_CDN",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "rewst-cdn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
+    "dailyMinutesDown": {}
+  }
+]
