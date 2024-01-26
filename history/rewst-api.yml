@@ -1,7 +1,7 @@
-url: https://api.rewst.io/
-status: up
-code: 404
-responseTime: 106
-lastUpdated: 2024-01-26T18:12:10.299Z
+url: $Rewst_API
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-26T18:17:52.606Z
 startTime: 2024-01-26T18:07:54.011Z
 generator: Upptime <https://github.com/upptime/upptime>

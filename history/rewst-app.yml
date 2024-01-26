@@ -1,7 +1,7 @@
-url: https://app.rewst.io
+url: $REWST_APP
 status: up
 code: 200
-responseTime: 429
-lastUpdated: 2024-01-26T18:12:09.943Z
+responseTime: 330
+lastUpdated: 2024-01-26T18:17:52.364Z
 startTime: 2024-01-26T18:07:52.701Z
 generator: Upptime <https://github.com/upptime/upptime>
