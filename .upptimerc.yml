@@ -4,25 +4,25 @@ repo: status.rewst.io # The name of this repository
 
 sites:
   - name: Rewst App
-    url: https://app.rewst.io
+    url: $REWST_APP
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Rewst API
-    url: https://api.rewst.io/
+    url: $Rewst_API
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Rewst Engine
-    url: https://engine.rewst.io/
+    url: $Rewst_Engine
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Rewst CDN
-    url: https://cdn.rewst.io/
+    url: $REWST_CDN
     expectedStatusCodes:
       - 200
       - 201
@@ -34,7 +34,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rewst.io
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.rewst.io/logos/horizontal-logos/svg/rewst-logo-horizontal-black.png
+  logoUrl: https://cdn.rewst.io/logos/horizontal-logos/png/rewst-logo-horizontal-black.png
   name: Rewst
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
