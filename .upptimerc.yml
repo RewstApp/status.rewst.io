@@ -35,7 +35,7 @@ status-website:
   cname: status.rewst.io
   # baseUrl: /your-repo-name
   name: ""
-  logoUrl: https://cdn.rewst.io/logos/horizontal-logos/png/rewst-logo-horizontal-black.png
+  logoUrl: https://cdn.rewst.io/logos/horizontal-logos/png/rewst-logo-horizontal-white.png
   themeUrl: https://status.rewst.io/rewst.css
   favicon: https://status.rewst.io/favicon.png
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
