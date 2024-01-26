@@ -40,13 +40,11 @@ status-website:
   favicon: https://status.rewst.io/favicon.png
   introTitle: ""
   introMessage: ""
-  i18n:
-    footer: ""
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
