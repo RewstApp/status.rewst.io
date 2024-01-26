@@ -4,7 +4,7 @@
     "url": "$REWST_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rewst-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,9 +33,7 @@
     "timeWeek": 205,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2024-01-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rewst Engine",
@@ -53,9 +51,7 @@
     "timeWeek": 200,
     "timeMonth": 200,
     "timeYear": 200,
-    "dailyMinutesDown": {
-      "2024-01-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rewst CDN",
