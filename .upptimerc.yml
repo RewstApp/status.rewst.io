@@ -34,10 +34,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rewst.io
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.rewst.io/logos/horizontal-logos/png/rewst-logo-horizontal-white.png
-  name: Rewst
+  logoUrl: $REWST_LOGO
+  themeUrl: https://status.rewst.io/rewst.css
+  favicon: https://status.rewst.io/favicon.png
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  i18n:
+    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   navbar:
     - title: Status
       href: /
