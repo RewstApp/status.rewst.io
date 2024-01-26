@@ -38,10 +38,10 @@ status-website:
   logoUrl: https://cdn.rewst.io/logos/horizontal-logos/png/rewst-logo-horizontal-white.png
   themeUrl: https://status.rewst.io/rewst.css
   favicon: https://status.rewst.io/favicon.png
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: ""
+  introMessage: ""
   i18n:
-    footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+    footer: ""
   navbar:
     - title: Status
       href: /
