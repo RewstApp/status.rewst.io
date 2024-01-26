@@ -34,7 +34,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rewst.io
   # baseUrl: /your-repo-name
-  name: Rewst
+  name: ""
   logoUrl: https://cdn.rewst.io/logos/horizontal-logos/svg/rewst-logo-horizontal-black.png
   themeUrl: https://status.rewst.io/rewst.css
   favicon: https://status.rewst.io/favicon.png
