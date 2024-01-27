@@ -27,6 +27,12 @@ sites:
       - 200
       - 201
       - 404
+  - name: Rewst Workflow
+    url: $REWST_WORKFLOW
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 
 status-website:
