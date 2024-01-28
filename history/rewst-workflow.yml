@@ -1,7 +1,7 @@
 url: $REWST_WORKFLOW
-status: down
-code: 400
-responseTime: 99
-lastUpdated: 2024-01-28T20:44:16.000Z
+status: up
+code: 200
+responseTime: 80
+lastUpdated: 2024-01-28T20:52:47.363Z
 startTime: 2024-01-27T00:14:51.413Z
 generator: Upptime <https://github.com/upptime/upptime>
