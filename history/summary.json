@@ -84,7 +84,7 @@
     "url": "$REWST_WORKFLOW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rewst-workflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "97.77%",
     "uptimeWeek": "98.73%",
@@ -96,6 +96,7 @@
     "timeMonth": 5213,
     "timeYear": 2185,
     "dailyMinutesDown": {
+      "2024-06-14": 0,
       "2024-06-13": 32,
       "2024-06-12": 55,
       "2024-06-11": 18,
