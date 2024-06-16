@@ -85,7 +85,7 @@
     "url": "$REWST_WORKFLOW",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rewst-workflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "98.31%",
